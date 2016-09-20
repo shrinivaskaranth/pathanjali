@@ -962,7 +962,7 @@
 			<p class="Vyakhya">
 <span id="PP_C01_P17_W018">वदन्ति</span> । </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I02" data-anchor="BS_C01_S01_I02_W013_L01;BS_C01_S01_I02_W013_L02;BS_C01_S01_I02_W014;BS_C01_S01_I02_W015;BS_C01_S01_I02_W016;BS_C01_S01_I02_W017" data-native="PP_C01_P17" data-type="">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I02" data-anchor="BS_C01_S01_I02_W013-BS_C01_S01_I02_W017" data-native="PP_C01_P17" data-type="">
 			<p class="uddharana">
 <span id="PP_C01_P17_W019">केचित्तु</span> 
 <span id="PP_C01_P17_W020">यत्र</span> 
@@ -1306,13 +1306,12 @@
 <span id="PP_C01_P20_W100">यथान्यासमेव</span> 
 <span id="PP_C01_P20_W101">लक्षणमस्तु</span> । </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I02" data-anchor="BS_C01_S01_I02_W030;BS_C01_S01_I02_W031;BS_C01_S01_I02_W032" data-native="PP_C01_P20" data-type="">
-			<p class="uddharana">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I02" data-anchor="BS_C01_S01_I02_W033-BS_C01_S01_I02_W035" data-native="PP_C01_P20" data-type="">
+			<p class="Vyakhya">
 <span id="PP_C01_P20_W102">तथा</span> 
 <span id="PP_C01_P20_W103">च</span> 
 <span id="PP_C01_P20_W104">लोके</span> 
-<span id="PP_C01_P20_W105">अनुभवः</span> </p>
-			<p class="Vyakhya">
+<span id="PP_C01_P20_W105">अनुभवः</span>
 <span id="PP_C01_P20_W106">इत्युदाहरणद्वयेन</span> 
 <span id="PP_C01_P20_W107">
 <span id="PP_C01_P20_W107_L01">लौकिकसिद्धमेवेदम</span>
@@ -1856,7 +1855,7 @@
 <span id="PP_C01_P27_W074_L02">स्यान्योन्यसम्भेदस्य</span></span> 
 <span id="PP_C01_P27_W075">विद्यमानत्वादध्यासलक्षणव्याप्तिरिहाप्युपपद्यते</span> ॥ </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I03" data-anchor="BS_C01_S01_I03_W001;BS_C01_S01_I03_W002;BS_C01_S01_I03_W003_L01;BS_C01_S01_I03_W003_L02;BS_C01_S01_I03_W004;BS_C01_S01_I03_W005" data-native="PP_C01_P28" data-type="">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I03" data-anchor="BS_C01_S01_I03_W001-BS_C01_S01_I03_W005" data-native="PP_C01_P28" data-type="">
 			<p class="Vyakhya">‘
 <span id="PP_C01_P28_W001">
 <span id="PP_C01_P28_W001_L01">कोऽयम</span>
@@ -2387,7 +2386,9 @@
 <span id="PP_C01_P35_W003">सुषुप्ते</span> 
 <span id="PP_C01_P35_W004">अहमनुभवः</span> ‘
 <span id="PP_C01_P35_W005">सुखमहमस्वाप्समि’ति</span> ; 
-<span id="PP_C01_P35_W006">सुषुप्तोत्थितस्य</span> 
+<span id="PP_C01_P35_W006">
+<span id="PP_C01_P35_W006_L01">सुषुप्तो</span>
+<span id="PP_C01_P35_W006_L02">त्थितस्य</span></span> 
 <span id="PP_C01_P35_W007">स्वापसुखानुभवपरामर्शदर्शनात्</span> , 
 <span id="PP_C01_P35_W008">नात्मनोऽन्यस्य</span> 
 <span id="PP_C01_P35_W009">तत्रानुभवः</span> 
@@ -3540,7 +3541,9 @@
 <span id="PP_C01_P47_W041">भिन्नत्वात्</span> 
 <span id="PP_C01_P47_W042">सादृश्यकल्पनेति</span> ? 
 <span id="PP_C01_P47_W043">आदौ</span> 
-<span id="PP_C01_P47_W044">सत्तादर्शनादन्तेऽपि</span> 
+<span id="PP_C01_P47_W044">
+<span id="PP_C01_P47_W044_L01">सत्तादर्शनाद</span>
+<span id="PP_C01_P47_W044_L02">न्तेऽपि</span></span> 
 <span id="PP_C01_P47_W045">सा</span> 
 <span id="PP_C01_P47_W046">किं</span> 
 <span id="PP_C01_P47_W047">नानुमीयते</span> ? 
@@ -4926,7 +4929,7 @@
 <span id="PP_C01_P58_W002">न</span> 
 <span id="PP_C01_P58_W003">वेदान्तवेद्यमिति</span> ॥ </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W134_L05" data-native="PP_C01_P58" data-type="">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W134_L06" data-native="PP_C01_P58" data-type="">
 			<p class="Vyakhya">
 <span id="PP_C01_P58_W004">किं</span> 
 <span id="PP_C01_P58_W005">तदिति</span> ? 
@@ -4935,7 +4938,7 @@
 			<p class="uddharana">
 <span id="PP_C01_P58_W008">असंसार्यात्मतत्वं</span>, </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W134_L06;BS_C01_S01_I04_W135;BS_C01_S01_I04_W136_L01;BS_C01_S01_I04_W136_L02" data-native="PP_C01_P58" data-type="">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W134_L07-BS_C01_S01_I04_W136_L02" data-native="PP_C01_P58" data-type="">
 			<p class="Vyakhya">
 <span id="PP_C01_P58_W009">न</span> 
 <span id="PP_C01_P58_W010">तत्</span> </p>
@@ -5045,7 +5048,7 @@
 			<p class="uddharana">
 <span id="PP_C01_P59_W039">अध्यासो</span> 
 <span id="PP_C01_P59_W040">नाम</span> 
-<span id="PP_C01_P59_W041">अतस्मिंस्तद्बुद्धिरित्यवोचाम्</span> </p>
+<span id="PP_C01_P59_W041">अतस्मिंस्तद्बुद्धिरित्यवोचाम</span> </p>
 			<p class="Vyakhya">
 <span id="PP_C01_P59_W042">इति</span> 
 <span id="PP_C01_P59_W043">परामृशति</span>, 
@@ -5216,12 +5219,14 @@
 <span id="PP_C01_P60_W111">प्रत्ययी</span> 
 <span id="PP_C01_P60_W112">चेत्यहंप्रत्ययी</span> ॥ </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W182_L03;BS_C01_S01_I04_W182_L04;BS_C01_S01_I04_W183;BS_C01_S01_I04_W184;BS_C01_S01_I04_W185;BS_C01_S01_I04_W186" data-native="PP_C01_P60" data-type="">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W182_L03-BS_C01_S01_I04_W183" data-native="PP_C01_P60" data-type="">
 			<p class="Vyakhya">
 <span id="PP_C01_P60_W113">तं</span> </p>
 			<p class="uddharana">
 <span id="PP_C01_P60_W114">अशेषस्वप्रचारसाक्षिणि</span> 
 <span id="PP_C01_P60_W115">प्रत्यगात्मन्यध्यस्येति</span> ॥ </p>
+		</div>
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W184-BS_C01_S01_I04_W186" data-native="PP_C01_P60" data-type="">
 			<p class="Vyakhya">
 <span id="PP_C01_P60_W116">स्वशब्देन</span> 
 <span id="PP_C01_P60_W117">अहङ्कारग्रन्थिः</span> 
@@ -5913,7 +5918,7 @@
 <span id="PP_C01_P68_W094">इति</span> 
 <span id="PP_C01_P68_W095">तर्कविदः</span> ॥ </p>
 		</div>
-		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W196_L02" data-native="PP_C01_P69" data-type="">
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_I04" data-anchor="BS_C01_S01_I04_W196_L03" data-native="PP_C01_P69" data-type="">
 			<p class="Vyakhya">
 <span id="PP_C01_P69_W001">अथ</span> 
 <span id="PP_C01_P69_W002">कोऽयं</span> 
@@ -6309,4 +6314,272 @@
 <span id="PP_C02_P01_W012">सिद्धैव</span> 
 <span id="PP_C02_P01_W013">ब्रह्मजिज्ञासापि</span> ॥ 
 <span id="PP_C02_P01_W014">अभ्यधिकाशङ्काभावादिति</span> । </p>
+		</div>
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_V01_B1" data-anchor="" data-native="PP_C02_P02" data-type="VyakhyaSimple">
+			<p class="Vyakhya">
+<span id="PP_C02_P02_W001">अत्र</span> 
+<span id="PP_C02_P02_W002">
+<span id="PP_C02_P02_W002_L01">केचिद</span>
+<span id="PP_C02_P02_W002_L02">भ्यधिकाशङ्कां</span></span> 
+<span id="PP_C02_P02_W003">दर्शयन्तो</span> 
+<span id="PP_C02_P02_W004">ब्रह्मजिज्ञासां</span> 
+<span id="PP_C02_P02_W005">पृथक्</span> 
+<span id="PP_C02_P02_W006">आरभन्ते</span> । 
+<span id="PP_C02_P02_W007">केयमत्राभ्यधिका</span> ॥ 
+<span id="PP_C02_P02_W008">शङ्का</span> 
+<span id="PP_C02_P02_W009">चोदनालक्षणोऽर्थो</span> 
+<span id="PP_C02_P02_W010">धर्मः</span> 
+<span id="PP_C02_P02_W011">इति</span> 
+<span id="PP_C02_P02_W012">ब्रुवता</span> 
+<span id="PP_C02_P02_W013">विधेः</span> 
+<span id="PP_C02_P02_W014">प्रामाण्यं</span> 
+<span id="PP_C02_P02_W015">दर्शितम्</span> । 
+<span id="PP_C02_P02_W016">अत्र</span> 
+<span id="PP_C02_P02_W017">केषुचिद्वाक्येषु</span> 
+<span id="PP_C02_P02_W018">विधिरेव</span> 
+<span id="PP_C02_P02_W019">न</span> 
+<span id="PP_C02_P02_W020">श्रूयते</span>, ‘
+<span id="PP_C02_P02_W021">सदेव</span> 
+<span id="PP_C02_P02_W022">सोम्येदमग्र</span> 
+<span id="PP_C02_P02_W023">आसीत्</span>’ 
+<span id="PP_C02_P02_W024">इत्येवमादिषु</span> ; 
+<span id="PP_C02_P02_W025">यत्रापि</span> 
+<span id="PP_C02_P02_W026">विधिः</span> 
+<span id="PP_C02_P02_W027">श्रूयते</span> ‘
+<span id="PP_C02_P02_W028">आत्मा</span> 
+<span id="PP_C02_P02_W029">वा</span> 
+<span id="PP_C02_P02_W030">अरे</span> 
+<span id="PP_C02_P02_W031">द्रष्टव्यः</span>’ ‘
+<span id="PP_C02_P02_W032">तस्मिन्</span> 
+<span id="PP_C02_P02_W033">यदन्तस्तदन्वेष्टव्यं</span> 
+<span id="PP_C02_P02_W034">तद्वाव</span> 
+<span id="PP_C02_P02_W035">विजिज्ञासितव्यम्</span>’ 
+<span id="PP_C02_P02_W036">इति</span> 
+<span id="PP_C02_P02_W037">तत्र</span> 
+<span id="PP_C02_P02_W038">यद्यपि</span> 
+<span id="PP_C02_P02_W039">कृत्या</span> 
+<span id="PP_C02_P02_W040">अविशेषेण</span> 
+<span id="PP_C02_P02_W041">विधौ</span> 
+<span id="PP_C02_P02_W042">स्मर्यन्ते</span> ; 
+<span id="PP_C02_P02_W043">तथापि</span>, 
+<span id="PP_C02_P02_W044">यो</span> 
+<span id="PP_C02_P02_W045">भावाभिधायी</span> 
+<span id="PP_C02_P02_W046">तव्यप्रत्ययः</span>, 
+<span id="PP_C02_P02_W047">स</span> 
+<span id="PP_C02_P02_W048">क्रियायां</span> 
+<span id="PP_C02_P02_W049">पुरुषं</span> 
+<span id="PP_C02_P02_W050">नियोक्तुं</span> 
+<span id="PP_C02_P02_W051">शक्नोति</span> । 
+<span id="PP_C02_P02_W052">यत्र</span> 
+<span id="PP_C02_P02_W053">पुनः</span> 
+<span id="PP_C02_P02_W054">कर्म</span> 
+<span id="PP_C02_P02_W055">प्राधान्येनोच्यते</span>, 
+<span id="PP_C02_P02_W056">तत्र</span> 
+<span id="PP_C02_P02_W057">द्रव्ये</span> 
+<span id="PP_C02_P02_W058">गुणभूतां</span> 
+<span id="PP_C02_P02_W059">क्रियां</span> 
+<span id="PP_C02_P02_W060">न</span> 
+<span id="PP_C02_P02_W061">कार्यान्तरसम्बन्धित्वेन</span> 
+<span id="PP_C02_P02_W062">विधातुं</span> 
+<span id="PP_C02_P02_W063">शक्नोति</span> । 
+<span id="PP_C02_P02_W064">द्रव्यपरत्वे</span> 
+<span id="PP_C02_P02_W065">चानुत्पाद्यत्वात्</span> , 
+<span id="PP_C02_P02_W066">अविकार्यत्वात्</span> , 
+<span id="PP_C02_P02_W067">अनाप्यत्वात्</span> , 
+<span id="PP_C02_P02_W068">असंस्कार्यत्वात्</span> , 
+<span id="PP_C02_P02_W069">संस्कृतस्य</span> 
+<span id="PP_C02_P02_W070">च</span> 
+<span id="PP_C02_P02_W071">कार्यान्तरे</span> 
+<span id="PP_C02_P02_W072">उपयोगाभावादसंस्कार्यत्वम्</span> । 
+<span id="PP_C02_P02_W073">अतः</span> ‘
+<span id="PP_C02_P02_W074">आत्मानमुपासीते’त्यात्मन</span> 
+<span id="PP_C02_P02_W075">ईप्सिततमत्वं</span> 
+<span id="PP_C02_P02_W076">न</span> 
+<span id="PP_C02_P02_W077">सम्भवति</span> ॥ 
+<span id="PP_C02_P02_W078">अथ</span> 
+<span id="PP_C02_P02_W079">
+<span id="PP_C02_P02_W079_L01">पुन</span>
+<span id="PP_C02_P02_W079_L02">र्विपरीतो</span></span> 
+<span id="PP_C02_P02_W080">गुणप्रधानभावः</span> 
+<span id="PP_C02_P02_W081">सक्तुन्यायेन</span> 
+<span id="PP_C02_P02_W082">कल्प्येत</span>, 
+<span id="PP_C02_P02_W083">तत्रापि</span> 
+<span id="PP_C02_P02_W084">न</span> 
+<span id="PP_C02_P02_W085">ज्ञायते</span> 
+<span id="PP_C02_P02_W086">किं</span> 
+<span id="PP_C02_P02_W087">तदुपासनम्</span> ? 
+<span id="PP_C02_P02_W088">कथं</span> 
+<span id="PP_C02_P02_W089">चात्मना</span> 
+<span id="PP_C02_P02_W090">तत्</span> 
+<span id="PP_C02_P02_W091">क्रियत</span> 
+<span id="PP_C02_P02_W092">इति</span> ? 
+<span id="PP_C02_P02_W093">अथ</span> 
+<span id="PP_C02_P02_W094">ज्ञायते</span> 
+<span id="PP_C02_P02_W095">ज्ञानमुपासनम्</span> , 
+<span id="PP_C02_P02_W096">आत्मा</span> 
+<span id="PP_C02_P02_W097">च</span> 
+<span id="PP_C02_P02_W098">विषयभावेन</span> 
+<span id="PP_C02_P02_W099">तन्निर्वर्तयतीति</span>, 
+<span id="PP_C02_P02_W100">एवं</span> 
+<span id="PP_C02_P02_W101">तर्हि</span> 
+<span id="PP_C02_P02_W102">तदेवायातं</span> 
+<span id="PP_C02_P02_W103">ज्ञानेनात्माऽऽप्यत</span> 
+<span id="PP_C02_P02_W104">इति</span>, 
+<span id="PP_C02_P02_W105">तच्च</span> 
+<span id="PP_C02_P02_W106">कृतकरणमनर्थकम्</span> ; 
+<span id="PP_C02_P02_W107">नित्याप्तत्वादात्मनः</span> । 
+<span id="PP_C02_P02_W108">संस्कार्यत्वे</span> 
+<span id="PP_C02_P02_W109">चोपयोगाभाव</span> 
+<span id="PP_C02_P02_W110">उक्तः</span> । 
+<span id="PP_C02_P02_W111">अतो</span> 
+<span id="PP_C02_P02_W112">विध्यभावादविवक्षितार्था</span> 
+<span id="PP_C02_P02_W113">वेदान्ताः</span>, 
+<span id="PP_C02_P02_W114">इति</span> 
+<span id="PP_C02_P02_W115">धर्मजिज्ञासानन्तरं</span> 
+<span id="PP_C02_P02_W116">स्नाने</span> 
+<span id="PP_C02_P02_W117">प्राप्त</span> 
+<span id="PP_C02_P02_W118">इदमारभ्यते</span> — 
+<span id="PP_C02_P02_W119">अथातो</span> 
+<span id="PP_C02_P02_W120">ब्रह्मजिज्ञासेति</span> ॥ 
+<span id="PP_C02_P02_W121">अनन्तरं</span> 
+<span id="PP_C02_P02_W122">ब्रह्म</span> 
+<span id="PP_C02_P02_W123">जिज्ञासितव्यं</span>, 
+<span id="PP_C02_P02_W124">न</span> 
+<span id="PP_C02_P02_W125">स्नातव्यमित्यभिप्रायः</span> । 
+<span id="PP_C02_P02_W126">कर्माभिधायिनोऽपि</span> 
+<span id="PP_C02_P02_W127">
+<span id="PP_C02_P02_W127_L01">कृत्यप्रत्ययान्नियोग</span>
+<span id="PP_C02_P02_W127_L02">संप्रत्यया</span>
+<span id="PP_C02_P02_W127_L03">न्न</span></span> 
+<span id="PP_C02_P02_W128">नियोक्तृत्वं</span> 
+<span id="PP_C02_P02_W129">निराकर्तुं</span> 
+<span id="PP_C02_P02_W130">शक्यते</span> ; ‘
+<span id="PP_C02_P02_W131">कटस्त्वया</span> 
+<span id="PP_C02_P02_W132">कर्तव्यः</span>’ ‘
+<span id="PP_C02_P02_W133">ग्रामस्त्वया</span> 
+<span id="PP_C02_P02_W134">गन्तव्यः</span>’ 
+<span id="PP_C02_P02_W135">इतिवत्</span> । 
+<span id="PP_C02_P02_W136">यत्तूक्तं</span> — 
+<span id="PP_C02_P02_W137">द्रव्यपरत्वे</span> 
+<span id="PP_C02_P02_W138">
+<span id="PP_C02_P02_W138_L01">प्रयोजनाभावा</span>
+<span id="PP_C02_P02_W138_L02">दानर्थक्यं</span></span> 
+<span id="PP_C02_P02_W139">नियोगस्येति</span>, 
+<span id="PP_C02_P02_W140">तदसत्</span> ; 
+<span id="PP_C02_P02_W141">अविद्योच्छेदस्योपलभ्यमानत्वात्</span> । 
+<span id="PP_C02_P02_W142">अविद्या</span> 
+<span id="PP_C02_P02_W143">च</span> 
+<span id="PP_C02_P02_W144">संसारहेतुभूता</span> ॥ </p>
+		</div>
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_V01_B1" data-anchor="" data-native="PP_C02_P03" data-type="VyakhyaSimple">
+			<p class="Vyakhya">
+<span id="PP_C02_P03_W001">अपरे</span> 
+<span id="PP_C02_P03_W002">पुनरेवमारभन्ते</span> — 
+<span id="PP_C02_P03_W003">ब्रह्मणि</span> 
+<span id="PP_C02_P03_W004">
+<span id="PP_C02_P03_W004_L01">प्रत्यक्षादि</span>
+<span id="PP_C02_P03_W004_L02">प्रत्ययान्तराणा</span>
+<span id="PP_C02_P03_W004_L03">मसम्भवात्</span></span> 
+<span id="PP_C02_P03_W005">परिनिष्पन्ने</span> 
+<span id="PP_C02_P03_W006">वस्तुनि</span> 
+<span id="PP_C02_P03_W007">प्रतिपत्तिहेतुतया</span> 
+<span id="PP_C02_P03_W008">सम्भावितसामर्थ्यानामपि</span> 
+<span id="PP_C02_P03_W009">आम्नायस्य</span> 
+<span id="PP_C02_P03_W010">पुनः</span> 
+<span id="PP_C02_P03_W011">कार्यविषयतया</span> 
+<span id="PP_C02_P03_W012">
+<span id="PP_C02_P03_W012_L01">सुतरा</span>
+<span id="PP_C02_P03_W012_L02">मसम्भवं</span></span> 
+<span id="PP_C02_P03_W013">मन्वानस्य</span> 
+<span id="PP_C02_P03_W014">भवति</span> 
+<span id="PP_C02_P03_W015">सङ्कर्षपर्यन्ते</span> 
+<span id="PP_C02_P03_W016">एव</span> 
+<span id="PP_C02_P03_W017">वेदार्थविचारावसानामिति</span> 
+<span id="PP_C02_P03_W018">बुद्धिः</span>, 
+<span id="PP_C02_P03_W019">तन्निरासार्थं</span> 
+<span id="PP_C02_P03_W020">पुनः</span> 
+<span id="PP_C02_P03_W021">प्रतिज्ञातम्</span> । 
+<span id="PP_C02_P03_W022">इहापि</span> 
+<span id="PP_C02_P03_W023">
+<span id="PP_C02_P03_W023_L01">सर्वेष्वेवा</span>
+<span id="PP_C02_P03_W023_L02">त्मज्ञानविधानेषु</span></span> 
+<span id="PP_C02_P03_W024">कार्यनिष्ठतां</span> 
+<span id="PP_C02_P03_W025">वर्णयन्ति</span> 
+<span id="PP_C02_P03_W026">समाम्</span> । 
+<span id="PP_C02_P03_W027">तत्त्वावबोधश्च</span> 
+<span id="PP_C02_P03_W028">कार्यम्</span> ; 
+<span id="PP_C02_P03_W029">अधिकारिनियोगविषयतया</span> 
+<span id="PP_C02_P03_W030">अवगमात्</span> 
+<span id="PP_C02_P03_W031">इति</span> ; 
+<span id="PP_C02_P03_W032">ततः</span> 
+<span id="PP_C02_P03_W033">तद्विचारार्थं</span> 
+<span id="PP_C02_P03_W034">शास्त्रमारब्धव्यमिति</span> ॥ </p>
+		</div>
+		<div class="VyakhyaDescriptor" data-parent="BS_C01_S01_V01_B1" data-anchor="" data-native="PP_C02_P04" data-type="VyakhyaSimple">
+			<p class="Vyakhya">
+<span id="PP_C02_P04_W001">अत्रोच्यते</span> — 
+<span id="PP_C02_P04_W002">नारब्धव्यम्</span> ; 
+<span id="PP_C02_P04_W003">गतार्थत्वात्</span> । 
+<span id="PP_C02_P04_W004">कथम्</span> ? 
+<span id="PP_C02_P04_W005">यस्तावत्</span> 
+<span id="PP_C02_P04_W006">प्रथम</span> 
+<span id="PP_C02_P04_W007">आरम्भप्रकारः</span> 
+<span id="PP_C02_P04_W008">कर्मणि</span> 
+<span id="PP_C02_P04_W009">कृत्यप्रत्यये</span> 
+<span id="PP_C02_P04_W010">न</span> 
+<span id="PP_C02_P04_W011">
+<span id="PP_C02_P04_W011_L01">नियोग</span>
+<span id="PP_C02_P04_W011_L02">संप्रत्यय</span></span> 
+<span id="PP_C02_P04_W012">इति</span>, 
+<span id="PP_C02_P04_W013">तत्</span> 
+<span id="PP_C02_P04_W014">स्वयमेव</span> 
+<span id="PP_C02_P04_W015">विधायकत्वं</span> 
+<span id="PP_C02_P04_W016">दर्शितम्</span> । 
+<span id="PP_C02_P04_W017">प्रसिद्धं</span> 
+<span id="PP_C02_P04_W018">चैतत्</span> ‘
+<span id="PP_C02_P04_W019">स्वाध्यायोऽध्येतव्यः</span>’ 
+<span id="PP_C02_P04_W020">इत्येवमादीनां</span> 
+<span id="PP_C02_P04_W021">विधायकत्वम्</span> । 
+<span id="PP_C02_P04_W022">
+<span id="PP_C02_P04_W022_L01">नात्राधिका</span>
+<span id="PP_C02_P04_W022_L02">शङ्काकारणं</span></span> 
+<span id="PP_C02_P04_W023">किञ्चित्</span> । 
+<span id="PP_C02_P04_W024">ननु</span> 
+<span id="PP_C02_P04_W025">चतुर्विधस्यापि</span> 
+<span id="PP_C02_P04_W026">
+<span id="PP_C02_P04_W026_L01">क्रियाफलस्यात्म</span>
+<span id="PP_C02_P04_W026_L02">न्यसम्भव</span></span> 
+<span id="PP_C02_P04_W027">उक्तः</span> । 
+<span id="PP_C02_P04_W028">यद्येवं</span> 
+<span id="PP_C02_P04_W029">सक्तुन्यायो</span> 
+<span id="PP_C02_P04_W030">भविष्यति</span> ? 
+<span id="PP_C02_P04_W031">तदपि</span> 
+<span id="PP_C02_P04_W032">न</span> ; 
+<span id="PP_C02_P04_W033">आत्मविषयज्ञानस्य</span> 
+<span id="PP_C02_P04_W034">नित्यसिद्धत्वादित्युक्तम्</span> । 
+<span id="PP_C02_P04_W035">सिद्धस्यैव</span> 
+<span id="PP_C02_P04_W036">पुनरभ्यासो</span> 
+<span id="PP_C02_P04_W037">विधिनिमित्त</span> 
+<span id="PP_C02_P04_W038">उपासनाख्यो</span> 
+<span id="PP_C02_P04_W039">भविष्यति</span> ; 
+<span id="PP_C02_P04_W040">अभ्युदयफले</span> 
+<span id="PP_C02_P04_W041">हिरण्यधारणवत्</span> । 
+<span id="PP_C02_P04_W042">ननु</span> 
+<span id="PP_C02_P04_W043">न</span> 
+<span id="PP_C02_P04_W044">
+<span id="PP_C02_P04_W044_L01">विधानतोऽप्या</span>
+<span id="PP_C02_P04_W044_L02">त्मविषयज्ञानसन्तानः</span></span> 
+<span id="PP_C02_P04_W045">कर्तव्यः</span>, 
+<span id="PP_C02_P04_W046">स</span> 
+<span id="PP_C02_P04_W047">तु</span> 
+<span id="PP_C02_P04_W048">नित्यमात्मनि</span> 
+<span id="PP_C02_P04_W049">जाग्रतः</span> 
+<span id="PP_C02_P04_W050">सिद्धः</span> ? 
+<span id="PP_C02_P04_W051">एवं</span> 
+<span id="PP_C02_P04_W052">
+<span id="PP_C02_P04_W052_L01">तर्ह्य</span>
+<span id="PP_C02_P04_W052_L02">र्थाविरुद्धेषु</span></span> 
+<span id="PP_C02_P04_W053">कालेष्वात्मन्येव</span> 
+<span id="PP_C02_P04_W054">चेतस्समाधानं</span> 
+<span id="PP_C02_P04_W055">भविष्यति</span> ॥ </p>
 		</div>
