@@ -1,0 +1,104 @@
+\usepackage{color}
+%In doc. type {\color{blue}abcdwxyz} %to change the font color in  specified line .
+% Available colors are red, blue, green, cyan,magenta, yellow, white.
+
+\usepackage[T1]{fontenc}
+
+%Add figure
+\usepackage{graphics} %Find an image and save a copy to your LaTeX course folder. In doc. type
+% \begin{figure}[h]% h is the placement specifier.
+%It can be h, t,b,p (here,top, bottom of the page, seperate page.)
+%\centering%This centres the image on the page, if not used images are left-aligned
+%by default.  \includegraphics[width=1\textwidth]{ImageFilename} 
+%The width could also be given in centimeters (cm).
+%\caption{My test image}     \end{figure}
+%\listoffigures to create a table of figures in a similar way to the table of contents
+\renewcommand{\thefigure}{\devanagarinumeral{figure}}% Type this to change figure numbers.
+\renewcommand{\figurename}{चित्रम्}% for changing lable as चित्रम्.
+
+%http://tex.stackexchange.com/questions/167719/how-to-use-background-image-in-latex
+
+\usepackage[compact]{titlesec}
+
+\usepackage[a5paper]{geometry}
+
+
+%Change section font size (in preamble)
+%\usepackage{titlesec}
+%\titleformat*{\section}{\large\bfseries}
+%\titleformat*{\subsection}{\Large\bfseries}..Etc.
+
+\usepackage{polyglossia}
+\usepackage{xltxtra} % standard for nearly all XeLaTeX documents
+\setdefaultlanguage{english}
+\setotherlanguage{sanskrit}
+\setmainfont[Script=Devanagari,AutoFakeBold=3.5]{Sanskrit2003}
+
+%Devanagari numarals
+\newcommand{\devanagarinumeral}[1]{ \devanagaridigits{\number\csname c@#1\endcsname}}
+% renew all representation of counters
+\renewcommand{\thesection}{\devanagarinumeral{section}}
+\renewcommand{\thesubsection}{\devanagarinumeral{subsection}}
+\renewcommand{\thepage}{\devanagarinumeral{page}}
+\renewcommand{\theenumi}{\devanagarinumeral{enumi}}
+\renewcommand{\thefootnote}{\devanagarinumeral{footnote}}
+%\usepackage{devanagaridigits}%Not working 
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}%https://www.sharelatex.com/learn/Hyperlinks
+%https://en.wikibooks.org/wiki/LaTeX/Hyperlinks
+
+
+%index
+%https://www.sharelatex.com/learn/Indices 
+%http://tex.stackexchange.com/questions/59317/auto-generate-an-index
+
+%\pretolerance=10000 %It turns off the complete hyphenation mechanism. 
+% it tells TeX to not even look for hyphenation positions.
+\tolerance % This parameter controls how much white space TeX considers to be "acceptable".
+\emergencystretch % This configures TeX to use at most 10pt of additional white space per line in order to avoid underfull/overfull lines.
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+%\fancyfoot{}
+\fancyfoot[R]{\thepage}
+
+
+%For bordering
+%\usepackage{ fancybox }
+%\fancypage{\fbox}{}
+
+%Remove caption
+%\usepackage{caption}
+%\captionsetup{labelformat=empty}
+
+%To renew type in doc. as
+%\renewcommand{\figurename}{Fig.}
+
+
+\usepackage{setspace}
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+\hyphenchar\font=-1
+\sloppy
+\linespread{1.5}%for line spacing, But it only works when {\tolerence... to \sloppy } are desabled
+
+%\usepackage[paperwidth=16cm,paperheight=24cm]{geometry}
+%\usepackage[a5,frame,center]{crop}
+
+%http://dickimaw-books.com/latex/admin/html/watermarks.shtml
+\usepackage[para]{footmisc}% For footnotes in single line
+
+\usepackage{perpage}
+\MakePerPage{footnote}
+%For change footnote serial no in everypage
+
+
