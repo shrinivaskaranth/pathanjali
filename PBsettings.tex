@@ -1,0 +1,51 @@
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup
+  {colorlinks=true,
+    linkcolor=blue}
+\usepackage[top=1.7cm, bottom=1.7cm, outer=1cm, inner=1.5cm]{geometry}
+\usepackage[pages=some]{background}
+\backgroundsetup{
+scale=1,
+color=black,
+opacity=0.5,
+angle=0,
+contents={%
+  \includegraphics[width=\paperwidth,height=\paperheight]{Lord-Shiva-And-Parvathi-HD-Wallpaper}
+  }%
+}
+\newcommand{\devanagarinumeral}[1]{ \devanagaridigits{\number\csname c@#1\endcsname}}
+
+\renewcommand{\thesection}{\devanagarinumeral{section}}
+\renewcommand{\thesubsection}{\devanagarinumeral{section}.\devanagarinumeral{subsection}.}
+\renewcommand{\thepage}{\devanagarinumeral{page}}
+\renewcommand{\theenumi}{\devanagarinumeral{enumi}}
+\renewcommand{\thepart}{\devanagarinumeral{part}}
+\renewcommand{\thefootnote}{\devanagarinumeral{footnote}}
+\usepackage[T1]{fontenc}
+\usepackage[compact]{titlesec}
+\usepackage{polyglossia}
+
+\setdefaultlanguage{sanskrit}
+\setotherlanguage{english}
+\setmainfont[Script=Devanagari,AutoFakeBold=3.5,WordSpace=1.5]{Sanskrit2003}
+\newfontfamily\englishfont{Times New Roman}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot[C]{\thepage}
+
+\usepackage[para]{footmisc}
+\usepackage{perpage}
+\MakePerPage{footnote}
+\usepackage{setspace}
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=100
+\hbadness=100
+\hyphenchar\font=-1
+\sloppy
+\linespread{1.5}
+
