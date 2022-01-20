@@ -1,0 +1,173 @@
+
+\usepackage{xstring}
+\usepackage[top=1.7cm, bottom=1.7cm, outer=1cm, inner=1.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{polyglossia}
+\newcommand{\kannadanumeral}[1]{ \kannadadigits{\number\csname c@#1\endcsname}}
+\usepackage{graphicx}
+\usepackage{nicefrac}
+\renewcommand{\thepart}{\kannadanumeral{part}}
+\XeTeXgenerateactualtext=1% For extraction of text from compiled pdf
+\setmainlanguage[numerals=Kannada]{kannada}
+\setotherlanguages{english}
+\usepackage{fancyhdr}
+\usepackage{polyglossia}
+\usepackage{multicol}
+\setmainfont[
+	Script=Kannada,
+	BoldFont=SHREE-KAN-OTF-0850-Bold,
+	ItalicFont=SHREE-KAN-OTF-0850-Italic,
+	BoldItalicFont=SHREE-KAN-OTF-0850-Bold-Italic,
+	HyphenChar="200C
+]{SHREE-KAN-OTF-0850}
+\setdefaultlanguage[numerals=Kannada]{kannada}
+\newfontfamily\kannadafont[
+	Script=Kannada,
+	BoldFont=SHREE-KAN-OTF-0850-Bold,
+	ItalicFont=SHREE-KAN-OTF-0850-Italic,
+	BoldItalicFont=SHREE-KAN-OTF-0850-Bold-Italic,
+	HyphenChar="200C
+]{SHREE-KAN-OTF-0850}
+\def\section#1{{\center\LARGE\bfseries #1\\}}
+\def\subsection#1{{\center\LARGE\bfseries #1}\\}
+ \pagestyle{fancy}
+ 
+ \renewcommand{\thesection}{\kannadanumeral{section}}
+\renewcommand{\thesubsection}{\kannadanumeral{section}.\kannadanumeral{subsection}.}
+\renewcommand{\thepage}{\kannadanumeral{page}}
+
+\newfontfamily\vedicfont[Script=Kannada,Path=$HOME/Karanth/guru/]{siddhanta.ttf}
+\def\vedic{\vedicfont\selectfont} 
+
+\catcode`\᳚=\active\def ᳚{{\vedic\char"1CDA}}
+\catcode`\॒=\active\def॒{{\vedic\char"0952}}
+\catcode`\॑=\active\def॑{{\vedic\char"951}}
+\catcode`\ಁ=\active\defಁ{{\vedic\char"0901}}
+\catcode`\ँ=\active\defँ{{\vedic\char"0901}}
+
+ 
+\fancyhead[C]{\bfseries\LARGE\kannadanumeral{page}}
+\parindent=0pt
+\parskip=6pt
+\tolerance=1
+\emergencystretch=\maxdimen
+\fancyfoot{}
+\long\def\dhyana#1{{\bfseries #1}}
+\long\def\as#1{{\bfseries #1}}
+\long\def\authorline#1{ \begin{center}{\Large\ #1}\end{center}}
+
+\newcommand{\arabictokannada}[1]%
+{%
+\StrSubstitute{#1}{0}{೦}[\num]%
+\StrSubstitute{\num}{1}{೧}[\num]%
+\StrSubstitute{\num}{2}{೨}[\num]%
+\StrSubstitute{\num}{3}{೩}[\num]%
+\StrSubstitute{\num}{4}{೪}[\num]%
+\StrSubstitute{\num}{5}{೫}[\num]%
+\StrSubstitute{\num}{6}{೬}[\num]%
+\StrSubstitute{\num}{7}{೭}[\num]%
+\StrSubstitute{\num}{8}{೮}[\num]%
+\StrSubstitute{\num}{9}{೯}[\num]%
+\StrSubstitute{\num}{10}{೧೦}[\num]%
+\StrSubstitute{\num}{11}{೧೧}[\num]%
+\StrSubstitute{\num}{12}{೧೨}[\num]%
+\StrSubstitute{\num}{13}{೧೩}[\num]%
+\StrSubstitute{\num}{14}{೧೪}[\num]%
+\StrSubstitute{\num}{15}{೧೫}[\num]%
+\StrSubstitute{\num}{16}{೧೬}[\num]%
+\StrSubstitute{\num}{17}{೧೭}[\num]%
+\StrSubstitute{\num}{18}{೧೮}[\num]%
+\StrSubstitute{\num}{19}{೧೯}[\num]%
+\StrSubstitute{\num}{20}{೨೦}[\num]%
+\StrSubstitute{\num}{21}{೨೧}[\num]%
+\StrSubstitute{\num}{22}{೨೨}[\num]%
+\StrSubstitute{\num}{23}{೨೩}[\num]%
+\StrSubstitute{\num}{24}{೩೪}[\num]%
+\StrSubstitute{\num}{25}{೨೫}[\num]%
+\StrSubstitute{\num}{26}{೨೬}[\num]%
+\StrSubstitute{\num}{27}{೨೭}[\num]%
+\StrSubstitute{\num}{28}{೨೮}[\num]%
+\StrSubstitute{\num}{29}{೨೯}[\num]%
+\StrSubstitute{\num}{30}{೩೦}[\num]%
+\StrSubstitute{\num}{31}{೩೧}[\num]%
+\StrSubstitute{\num}{32}{೩೨}[\num]%
+\StrSubstitute{\num}{33}{೩೩}[\num]%
+\StrSubstitute{\num}{34}{೩೪}[\num]%
+\StrSubstitute{\num}{35}{೩೫}[\num]%
+\StrSubstitute{\num}{36}{೩೬}[\num]%
+\StrSubstitute{\num}{37}{೩೭}[\num]%
+\StrSubstitute{\num}{38}{೩೮}[\num]%
+\StrSubstitute{\num}{39}{೩೯}[\num]%
+\StrSubstitute{\num}{40}{೪೦}[\num]%
+\StrSubstitute{\num}{41}{೪೧}[\num]%
+\StrSubstitute{\num}{42}{೪೨}[\num]%
+\StrSubstitute{\num}{43}{೪೩}[\num]%
+\StrSubstitute{\num}{44}{೪೪}[\num]%
+\StrSubstitute{\num}{45}{೪೫}[\num]%
+\StrSubstitute{\num}{46}{೪೬}[\num]%
+\StrSubstitute{\num}{47}{೪೭}[\num]%
+\StrSubstitute{\num}{48}{೪೮}[\num]%
+\StrSubstitute{\num}{49}{೪೯}[\num]%
+\StrSubstitute{\num}{50}{೫೦}[\num]%
+\StrSubstitute{\num}{51}{೫೧}[\num]%
+\StrSubstitute{\num}{52}{೫೨}[\num]%
+\StrSubstitute{\num}{53}{೫೩}[\num]%
+\StrSubstitute{\num}{54}{೫೪}[\num]%
+\StrSubstitute{\num}{55}{೫೫}[\num]%
+\StrSubstitute{\num}{56}{೫೬}[\num]%
+\StrSubstitute{\num}{57}{೫೭}[\num]%
+\StrSubstitute{\num}{58}{೫೮}[\num]%
+\StrSubstitute{\num}{59}{೫೯}[\num]%
+\StrSubstitute{\num}{60}{೬೦}[\num]%
+\StrSubstitute{\num}{61}{೬೧}[\num]%
+\StrSubstitute{\num}{62}{೬೨}[\num]%
+\StrSubstitute{\num}{63}{೬೩}[\num]%
+\StrSubstitute{\num}{64}{೬೪}[\num]%
+\StrSubstitute{\num}{65}{೬೫}[\num]%
+\StrSubstitute{\num}{66}{೬೬}[\num]%
+\StrSubstitute{\num}{67}{೬೭}[\num]%
+\StrSubstitute{\num}{68}{೬೮}[\num]%
+\StrSubstitute{\num}{69}{೬೯}[\num]%
+\StrSubstitute{\num}{70}{೭೦}[\num]%
+\StrSubstitute{\num}{71}{೭೧}[\num]%
+\StrSubstitute{\num}{72}{೭೨}[\num]%
+\StrSubstitute{\num}{73}{೭೩}[\num]%
+\StrSubstitute{\num}{74}{೭೪}[\num]%
+\StrSubstitute{\num}{75}{೭೫}[\num]%
+\StrSubstitute{\num}{76}{೭೬}[\num]%
+\StrSubstitute{\num}{77}{೭೭}[\num]%
+\StrSubstitute{\num}{78}{೭೮}[\num]%
+\StrSubstitute{\num}{79}{೭೯}[\num]%
+\StrSubstitute{\num}{80}{೮೦}[\num]%
+\StrSubstitute{\num}{81}{೮೧}[\num]%
+\StrSubstitute{\num}{82}{೮೨}[\num]%
+\StrSubstitute{\num}{83}{೮೩}[\num]%
+\StrSubstitute{\num}{84}{೮೪}[\num]%
+\StrSubstitute{\num}{85}{೮೫}[\num]%
+\StrSubstitute{\num}{86}{೮೬}[\num]%
+\StrSubstitute{\num}{87}{೮೭}[\num]%
+\StrSubstitute{\num}{88}{೮೮}[\num]%
+\StrSubstitute{\num}{89}{೮೯}[\num]%
+\StrSubstitute{\num}{90}{೯೦}[\num]%
+\StrSubstitute{\num}{91}{೯೧}[\num]%
+\StrSubstitute{\num}{92}{೯೨}[\num]%
+\StrSubstitute{\num}{93}{೯೩}[\num]%
+\StrSubstitute{\num}{94}{೯೪}[\num]%
+\StrSubstitute{\num}{95}{೯೫}[\num]%
+\StrSubstitute{\num}{96}{೯೬}[\num]%
+\StrSubstitute{\num}{97}{೯೭}[\num]%
+\StrSubstitute{\num}{98}{೯೮}[\num]%
+\StrSubstitute{\num}{99}{೯೯}[\num]%
+\StrSubstitute{\num}{100}{೧೦೦}[\num]%
+\StrSubstitute{\num}{101}{೧೦೧}[\num]%
+\StrSubstitute{\num}{102}{೧೦೨}[\num]%
+\StrSubstitute{\num}{103}{೧೦೩}[\num]%
+\StrSubstitute{\num}{104}{೧೦೪}[\num]%
+\StrSubstitute{\num}{105}{೧೦೫}[\num]%
+\StrSubstitute{\num}{106}{೧೦೬}[\num]%
+\StrSubstitute{\num}{107}{೧೦೭}[\num]%
+\StrSubstitute{\num}{108}{೧೦೮}[\num]%
+\StrSubstitute{\num}{109}{೧೦೯}%
+}
+
+
