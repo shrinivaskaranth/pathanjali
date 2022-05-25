@@ -1,0 +1,44 @@
+\usepackage[top=1.7cm, bottom=1.7cm, outer=1cm, inner=1.5cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{polyglossia}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\hypersetup
+  {colorlinks=true,
+    linkcolor=blue}
+%\usepackage[top=1.7cm, bottom=1.7cm, outer=1cm, inner=1.5cm]{geometry}
+\makeatletter
+\newcommand{\devanagarinumeral}[1]{ \devanagaridigits{\number\csname c@#1\endcsname}}
+\makeatother
+\renewcommand*\contentsname{विषयानुक्रमणिका}
+
+\renewcommand{\thesection}{\devanagarinumeral{section}}
+\renewcommand{\thesubsection}{\devanagarinumeral{section}.\devanagarinumeral{subsection}.}
+\renewcommand{\thepage}{\devanagarinumeral{page}}
+\renewcommand{\theenumi}{\devanagarinumeral{enumi}}
+\renewcommand{\thepart}{\devanagarinumeral{part}}
+\renewcommand{\thefootnote}{\devanagarinumeral{footnote}}
+\usepackage[T1]{fontenc}
+\usepackage{polyglossia}%for multilingual typesetting
+
+\setdefaultlanguage{sanskrit}
+\setotherlanguage{english}
+\setmainfont[Script=Devanagari,AutoFakeBold=3.5,WordSpace=1.5]{Sanskrit2003}
+\newfontfamily\englishfont{Times New Roman}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyfoot[C]{\thepage}
+\usepackage{perpage}
+\MakePerPage{footnote}
+\usepackage{setspace}
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=100
+\hbadness=100
+\hyphenchar\font=-1
+\sloppy
+\linespread{1.5}
+\parindent=0pt
+\parskip=6pt
