@@ -1,0 +1,72 @@
+\documentclass{book}
+\long\def\auname#1{{\large\bf #1}}
+%~ \parindent=0pt
+\parskip=10pt
+
+\makeatletter
+\def\partname{Shreesha}
+\def\@part[#1]#2{%
+    \ifnum \c@secnumdepth >-2\relax
+      \refstepcounter{part}%
+      \addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+    \else
+      \addcontentsline{toc}{part}{#1}%
+    \fi
+    \markboth{}{}%
+    {\centering
+     \interlinepenalty \@M
+     \normalfont
+     \ifnum \c@secnumdepth >-2\relax
+       \Huge\bfseries Shiva\nobreakspace\thepart
+       \par
+       \vskip 20\p@
+     \fi
+     \Huge \bfseries #2\par}%
+    \@endpart}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+                                   {3.5ex \@plus -1ex \@minus -.2ex}%
+                                   {10ex \@plus.2ex}%
+                                   {\normalfont\centering\Large\bfseries}}
+
+\makeatother
+
+\def\itichapter#1{\vskip 3pt {\centering\large\bf #1}\smallskip}
+
+\newenvironment{myenv}{\vskip 2pt\bgroup}{\smallskip\egroup}
+%%%%%%%%%%%%%%%{name of the env}{before the environment}{after the environment}
+
+\begin{document}
+
+\tableofcontents
+
+\part{My Part}
+
+\chapter{Firs}
+
+\section{First section}
+
+This is a first section
+
+After section heading
+
+After section heading
+
+After section heading
+
+{\parskip=2pt
+After section heading
+
+After section heading
+
+After section heading}
+
+\begin{myenv}
+This is a simple text
+\end{myenv}
+
+\begin{myenv}
+This is a simple text
+\end{myenv}
+
+\end{document}
