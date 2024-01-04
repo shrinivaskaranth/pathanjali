@@ -1,0 +1,138 @@
+\selectlanguage *{sanskrit}
+\contentsline {section}{मङ्गलम्}{ १}{chapter*.1}%
+\contentsline {part}{शास्त्रत्वसम्पादनोद्देशप्रकरणम् }{ ५}{part*.2}%
+\contentsline {section}{व्याख्यानतो विशेष}{ ५}{section*.3}%
+\contentsline {section}{यथोद्देशं}{ ५}{section*.3}%
+\contentsline {section}{अनेकान्ताः}{ १०}{section*.3}%
+\contentsline {section}{एकान्ताः}{ ११}{section*.3}%
+\contentsline {section}{नानुबन्धकृतम्}{ ११}{section*.3}%
+\contentsline {section}{नानुबन्धकृतमनेजन्तत्वम्}{ १२}{section*.3}%
+\contentsline {section}{नानुबन्धकृतमसारूप्यम्}{ १२}{section*.3}%
+\contentsline {section}{उभयगतिरिह}{ १३}{section*.3}%
+\contentsline {section}{कार्यमनुभवन्हि}{ १४}{section*.3}%
+\contentsline {section}{यदागमास्तद्गुणीभूताः}{ १५}{section*.3}%
+\contentsline {section}{निर्दिश्यमानस्य}{ १८}{section*.3}%
+\contentsline {section}{यत्रानेकविधमान्तर्यम्}{ २०}{section*.3}%
+\contentsline {section}{अर्थवद्ग्रहणे}{ २१}{section*.3}%
+\contentsline {section}{गौणमुख्ययोर्मुख्ये}{ २२}{section*.3}%
+\contentsline {section}{अनिनस्मन्ग्रहणानि}{ २५}{section*.3}%
+\contentsline {section}{एकयोगनिर्दिष्टानाम्}{ २६}{section*.3}%
+\contentsline {section}{क्वचिदेकदेशोऽपि}{ २७}{section*.3}%
+\contentsline {section}{भाव्यमानेन}{ २८}{section*.3}%
+\contentsline {section}{भाव्यमानोऽप्युकारः}{ २९}{section*.3}%
+\contentsline {section}{वर्णाश्रये नास्ति}{ २९}{section*.3}%
+\contentsline {section}{उणादयोऽव्युत्पन्नानि}{ ३०}{section*.3}%
+\contentsline {section}{प्रत्ययग्रहणे यस्मात्स}{ ३०}{section*.3}%
+\contentsline {section}{प्रत्ययग्रहणे}{ ३२}{section*.3}%
+\contentsline {section}{उत्तरपदाधिकारे}{ ३३}{section*.3}%
+\contentsline {section}{स्त्रीप्रत्यये}{ ३३}{section*.3}%
+\contentsline {section}{संज्ञाविधौ प्रत्ययग्रहणे}{ ३४}{section*.3}%
+\contentsline {section}{कृद्ग्रहणे गतिकारक}{ ३५}{section*.3}%
+\contentsline {section}{पदाङ्गाधिकारे}{ ३७}{section*.3}%
+\contentsline {section}{व्यपदेशिवदेकस्मिन्}{ ३८}{section*.3}%
+\contentsline {section}{ग्रहणवता प्रातिपदिकेन}{ ४०}{section*.3}%
+\contentsline {section}{व्यपदेशिवद्भावः}{ ४१}{section*.3}%
+\contentsline {section}{यस्मिन्विधिस्तदादावल्ग्रहणे}{ ४२}{section*.3}%
+\contentsline {section}{सर्वो द्वन्द्वो}{ ४३}{section*.3}%
+\contentsline {section}{सर्वे विधयश्छन्दसि}{ ४४}{section*.3}%
+\contentsline {section}{प्रकृतिवदनुकरणम्}{ ४४}{section*.3}%
+\contentsline {section}{एकदेशविकृतम्}{ ४४}{section*.3}%
+\contentsline {part}{बाधबीजप्रकरणम् }{ ४९}{part*.4}%
+\contentsline {section}{पूर्वपरनित्यान्तरङ्ग}{ ४९}{section*.5}%
+\contentsline {section}{पुनः प्रसङ्गविज्ञानात्}{ ४९}{section*.5}%
+\contentsline {section}{सकृद्गतौ विप्रतिषेधे}{ ४९}{section*.5}%
+\contentsline {section}{विकरणेभ्यो नियमः}{ ५२}{section*.5}%
+\contentsline {section}{परान्नित्यं बलवत् }{ ५४}{section*.5}%
+\contentsline {section}{कृताकृतप्रसङ्गि नित्यम्}{ ५४}{section*.5}%
+\contentsline {section}{शब्दान्तरस्य प्राप्नुवन्}{ ५५}{section*.5}%
+\contentsline {section}{शब्दान्तरात्प्राप्नुवतः}{ ५५}{section*.5}%
+\contentsline {section}{लक्षणान्तरेण प्राप्नुवन्}{ ५५}{section*.5}%
+\contentsline {section}{क्वचित्कृताकृत}{ ५५}{section*.5}%
+\contentsline {section}{यस्य च लक्षणान्तरेण}{ ५६}{section*.5}%
+\contentsline {section}{यस्य च लक्षणान्तरेण}{ ५६}{section*.5}%
+\contentsline {section}{स्वरभिन्नस्य प्राप्नुवन्}{ ५६}{section*.5}%
+\contentsline {section}{असिद्धं बहिरङ्गं}{ ५७}{section*.5}%
+\contentsline {section}{नाजानन्तर्ये}{ ७०}{section*.5}%
+\contentsline {section}{अन्तरङ्गानपि विधीन्}{ ७४}{section*.5}%
+\contentsline {section}{पूर्वोत्तरपदनिमित्तकार्यात्}{ ७८}{section*.5}%
+\contentsline {section}{अन्तरङ्गानपि विधीन्}{ ७८}{section*.5}%
+\contentsline {section}{वार्णादाङ्गम्}{ ७९}{section*.5}%
+\contentsline {section}{अकृतव्यूहाः}{ ८३}{section*.5}%
+\contentsline {section}{येन नाप्राप्ते यो विधिः}{ ८८}{section*.5}%
+\contentsline {section}{क्वचिदपवादविषयेऽपि}{ ९१}{section*.5}%
+\contentsline {section}{पुरस्तादपवादाः}{ ९३}{section*.5}%
+\contentsline {section}{मध्येऽपवादाः}{ ९३}{section*.5}%
+\contentsline {section}{अनन्तरस्य विधिर्वा}{ ९४}{section*.5}%
+\contentsline {section}{पूर्वं ह्यपवादाः}{ ९५}{section*.5}%
+\contentsline {section}{प्रकल्प्य चापवादविषयं}{ ९५}{section*.5}%
+\contentsline {section}{उपसञ्जनिष्यमाणनिमित्तोऽपि}{ ९६}{section*.5}%
+\contentsline {section}{अपवादो यद्यन्यत्र}{ ९८}{section*.5}%
+\contentsline {section}{अभ्यासविकारेषु}{ ९८}{section*.5}%
+\contentsline {section}{ताच्छीलिकेषु}{ ९९}{section*.5}%
+\contentsline {section}{क्तल्युट्तुमुन्खलर्थेषु}{ १००}{section*.5}%
+\contentsline {section}{लादेशेषु वासरूप}{ १००}{section*.5}%
+\contentsline {section}{उभयनिर्देशे पञ्चमी}{ १०१}{section*.5}%
+\contentsline {part}{शास्त्रशेषप्रकरणम् }{ १०५}{part*.6}%
+\contentsline {section}{प्रातिपदिकग्रहणे}{ १०५}{section*.7}%
+\contentsline {section}{विभक्तौ लिङ्गविशिष्ट}{ १०६}{section*.7}%
+\contentsline {section}{सूत्रे लिङ्गवचनम्}{ १०७}{section*.7}%
+\contentsline {section}{नञिव युक्तमन्य}{ १०७}{section*.7}%
+\contentsline {section}{गतिकारकोपपदानाम्}{ १०८}{section*.7}%
+\contentsline {section}{साम्प्रतिकाभावे}{ ११०}{section*.7}%
+\contentsline {section}{बहुव्रीहौ तद्गुण}{ ११०}{section*.7}%
+\contentsline {section}{चानुकृष्टं नोत्तरत्र}{ १११}{section*.7}%
+\contentsline {section}{स्वरविधौ व्यञ्जनम्}{ ११२}{section*.7}%
+\contentsline {section}{हल्स्वरप्राप्तौ व्यञ्जनम्}{ ११३}{section*.7}%
+\contentsline {section}{निरनुबन्धकग्रहणे}{ ११३}{section*.7}%
+\contentsline {section}{तदनुबन्धकग्रहणे}{ ११३}{section*.7}%
+\contentsline {section}{क्वचित्स्वार्थिकाः प्रकृतितः}{ ११५}{section*.7}%
+\contentsline {section}{समासान्तविधिरनित्यः}{ ११५}{section*.7}%
+\contentsline {section}{सन्निपातलक्षणो विधिः}{ ११६}{section*.7}%
+\contentsline {section}{सन्नियोगशिष्टानामन्यतर}{ १२०}{section*.7}%
+\contentsline {section}{ताच्छीलिके णे}{ १२२}{section*.7}%
+\contentsline {section}{धातोः कार्यमुच्यमानं}{ १२२}{section*.7}%
+\contentsline {section}{तन्मध्यपतितः}{ १२३}{section*.7}%
+\contentsline {section}{लुग्विकरणालुग्विकरणयोः}{ १२३}{section*.7}%
+\contentsline {section}{प्रकृतिग्रहणे ण्यधिकस्य}{ १२४}{section*.7}%
+\contentsline {section}{अङ्गवृत्ते पुनः}{ १२५}{section*.7}%
+\contentsline {section}{संज्ञापूर्वकविधेः}{ १२६}{section*.7}%
+\contentsline {section}{आगमशास्त्रम्}{ १२६}{section*.7}%
+\contentsline {section}{गणकार्यमनित्यम्}{ १२६}{section*.7}%
+\contentsline {section}{अनुदात्तेत्त्वलक्षणम्}{ १२६}{section*.7}%
+\contentsline {section}{नञ्घटितमनित्यम्}{ १२७}{section*.7}%
+\contentsline {section}{आतिदेशिकम्}{ १२८}{section*.7}%
+\contentsline {section}{सर्वविधिभ्यो लोपविधिः}{ १२८}{section*.7}%
+\contentsline {section}{प्रकृतिग्रहणे यङ्लुगन्तस्य}{ १२८}{section*.7}%
+\contentsline {section}{विधौ परिभाषा}{ १२९}{section*.7}%
+\contentsline {section}{उपपदविभक्तेः}{ १३०}{section*.7}%
+\contentsline {section}{अनन्त्यविकारे}{ १३२}{section*.7}%
+\contentsline {section}{नानर्थकेऽलोऽन्त्यविधिः}{ १३४}{section*.7}%
+\contentsline {section}{प्रधानाप्रधानयोः}{ १३४}{section*.7}%
+\contentsline {section}{अवयवप्रसिद्धेः}{ १३५}{section*.7}%
+\contentsline {section}{व्यवस्थितविभाषयापि}{ १३५}{section*.7}%
+\contentsline {section}{विधिनियमसम्भवे}{ १३६}{section*.7}%
+\contentsline {section}{सामान्यातिदेशे}{ १३६}{section*.7}%
+\contentsline {section}{प्रत्ययाप्रत्यययोः}{ १३७}{section*.7}%
+\contentsline {section}{सहचरितासहचरितयोः}{ १३७}{section*.7}%
+\contentsline {section}{श्रुतानुमितयोः}{ १३८}{section*.7}%
+\contentsline {section}{लक्षणप्रतिपदोक्तयोः}{ १४०}{section*.7}%
+\contentsline {section}{गामादाग्रहणेषु}{ १४१}{section*.7}%
+\contentsline {section}{प्रत्येकं वाक्यपरिसमाप्तिः}{ १४१}{section*.7}%
+\contentsline {section}{क्वचित्समुदायेऽपि}{ १४१}{section*.7}%
+\contentsline {section}{अभेदकाः गुणाः}{ १४२}{section*.7}%
+\contentsline {section}{बाधकान्येव निपातनानि}{ १४४}{section*.7}%
+\contentsline {section}{पर्जन्यवल्लक्षणप्रवृत्तिः}{ १४५}{section*.7}%
+\contentsline {section}{निषेधाश्च बलीयांसः}{ १४६}{section*.7}%
+\contentsline {section}{अनिर्दिष्टार्थाः प्रत्ययाः}{ १४६}{section*.7}%
+\contentsline {section}{योगविभागादिष्टसिद्धिः}{ १४७}{section*.7}%
+\contentsline {section}{पर्यायशब्दानां लाघव}{ १४७}{section*.7}%
+\contentsline {section}{ज्ञापकसिद्धं न सर्वत्र}{ १४७}{section*.7}%
+\contentsline {section}{पूर्वत्रासिद्धीयमद्वित्वे}{ १४८}{section*.7}%
+\contentsline {section}{एकस्या आकृतेश्चरितः}{ १४८}{section*.7}%
+\contentsline {section}{सम्प्रसारणं तदाश्रयं}{ १४९}{section*.7}%
+\contentsline {section}{क्वचिद्विकृतिः प्रकृतिं}{ १४९}{section*.7}%
+\contentsline {section}{औपदेशिकप्रायोगिकयोः}{ १५०}{section*.7}%
+\contentsline {section}{श्तिपा शपानुबन्धेन}{ १५१}{section*.7}%
+\contentsline {section}{पदगौरवाद्योगविभागः}{ १५४}{section*.7}%
+\contentsline {section}{अर्धमात्रालाघवेन}{ १५४}{section*.7}%
+\contentsline {section}{परिभाषापाठः}{ १५६}{section*.7}%
